@@ -9,7 +9,8 @@ Pillow <br />
 ftfy <br />
 argparse
 
-ocr.py : Program to extract the required data from image.
+ocr.py : Program to extract the required data from image.<br />
+
 Usage: <br />
 python ocr.py path_to_image_file.jpg
 
