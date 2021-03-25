@@ -7,7 +7,6 @@ import re
 import io
 import json
 import ftfy
-import numpy as np
 
 # To be able to take args from terminal
 ap = argparse.ArgumentParser()
