@@ -7,6 +7,11 @@ Tesseract-OCR <br />
 pytesseract <br />
 Pillow <br />
 ftfy <br />
+argparse
+
+ocr.py : Program to extract the required data from image.
+Usage: <br />
+python ocr.py path_to_image_file.jpg
 
 
 ![Screenshot](screenshot.png)
